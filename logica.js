@@ -1,1 +1,1 @@
-cosole.log('Hola mundo parcero');
+alert('Hola mundo con git');
