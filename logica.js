@@ -1,1 +1,1 @@
-alert('Hola mundo con git rama principal');
+alert('Hola mundo con git rama principall');
